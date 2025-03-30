@@ -1,0 +1,46 @@
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\Modulo RRH.exe
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\Modulo RRH.deps.json
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\Modulo RRH.runtimeconfig.json
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\Modulo RRH.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\Modulo RRH.pdb
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo RRH.csproj.AssemblyReference.cache
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo_RRH.Forms_Usu.DueñoForm.resources
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo_RRH.Forms_Usu.SupervisorForm.resources
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo_RRH.Form1.resources
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo RRH.csproj.GenerateResource.cache
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo RRH.GeneratedMSBuildEditorConfig.editorconfig
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo RRH.AssemblyInfoInputs.cache
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo RRH.AssemblyInfo.cs
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo RRH.csproj.CoreCompileInputs.cache
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo RRH.csproj.Up2Date
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo RRH.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\refint\Modulo RRH.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo RRH.pdb
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo RRH.genruntimeconfig.cache
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\ref\Modulo RRH.dll
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo_RRH.Forms_Usu.opciones_super.VerEmpleadosForm.resources
+D:\URL\Tercer Semestre\Teoria de sistemas\Proyectos\Modulo RRHH\obj\Debug\net8.0-windows\Modulo_RRH.Properties.Resources.resources

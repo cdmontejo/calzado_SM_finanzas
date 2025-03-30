@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms_Usu\DueñoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_Usu\opciones_super\Evaluaciones_desempeño.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_Usu\opciones_super\Gestion_Asistencias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_Usu\opciones_super\Gestion_horarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_Usu\opciones_super\Reporte_Basico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_Usu\opciones_super\VerEmpleadosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_Usu\SupervisorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
